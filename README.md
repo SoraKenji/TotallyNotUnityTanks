@@ -2,6 +2,8 @@
 
 # ... STILL IN PROGRESS...
 
+# REMEMBER TO DECOMPRESS: `.../Assets/Winter Zone Mini 1.0/Textures.zip` and `../Assets/StarSparrow/SubstancePainter.zip`
+
 This project is made following "Unity Tanks" official tutorials. You'll recognize some of the codes, but almost all of them are modified in order to make a different game.
 
 "Totally Not Unity Tanks" (name in progress) is a 2 - 4 players shooter game, with space craft.
