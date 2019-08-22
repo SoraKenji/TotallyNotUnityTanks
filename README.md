@@ -17,7 +17,7 @@ This project is still in progress following "Unity Tanks" official tutorials. Yo
 
 [IN PROGRESS]
 - **Scene 1:** `Battle`
- - - Camera follows all players who are actives in the scene.
+ - - Camera follows all players who are active in the scene.
  - - Two players added. Each one configurated using Xbox One controller (player 1 - player 2 controllers).
  
  ## Controller Information
